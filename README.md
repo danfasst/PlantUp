@@ -14,4 +14,4 @@ Essa separação torna o código mais organizado, facilita a manutenção e perm
 
 Como executar o projeto: Para executar o PlantUp, basta clonar o repositório e abrir o projeto no Android Studio. Após a sincronização das dependências do Gradle, o aplicativo pode ser executado em um emulador ou dispositivo físico com Android.
 
-O projeto foi desenvolvido por Daniel Cunha, com foco em aprendizado prático de desenvolvimento Android moderno utilizando Jetpack Compose, arquitetura MVVM e boas práticas de organização de código.
+O projeto foi desenvolvido por Daniel Cunha na aula "Desenvolvimento de Aplicativos Móveis", com foco em aprendizado prático de desenvolvimento Android moderno utilizando Jetpack Compose, arquitetura MVVM e boas práticas de organização de código. 
